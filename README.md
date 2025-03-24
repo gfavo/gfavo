@@ -1,4 +1,5 @@
 🚀 Olá! Eu sou Gabriel!
+
 👨‍💻 Sobre mim
 Sou um desenvolvedor Fullstack apaixonado por criar aplicações escaláveis, performáticas e bem estruturadas. Minha experiência abrange React, Next.js, Node.js e PostgreSQL, sempre focando em boas práticas de código, clean architecture e experiência do usuário.
 
